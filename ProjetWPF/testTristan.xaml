@@ -8,7 +8,7 @@
         Title="testTristan" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="304,196,0,0" VerticalAlignment="Top" Width="245" Height="120"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="513,97,0,0" VerticalAlignment="Top" Width="205" Height="45"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="122,100,0,0" VerticalAlignment="Top" Width="205" Height="45"/>
 
     </Grid>
 </Window>
