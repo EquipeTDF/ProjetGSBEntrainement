@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="frmDam" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Button" HorizontalAlignment="Left" Margin="391,136,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="443,272,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Window>
